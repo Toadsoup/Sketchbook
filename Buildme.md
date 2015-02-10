@@ -19,3 +19,6 @@ Based off of raptorize jquery plugin
 * Story Recording 
 * Story Submit
 
+####Renty Rent
+
+####1000 Words
