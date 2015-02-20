@@ -6,7 +6,7 @@ Storytelling app
 * API
 * Reader (ember.js?)
 
-####-orize
+####-orize [In progress](https://github.com/Toadsoup/orize)
 Based off of raptorize jquery plugin
 * Hodorize
 * Nick Cage-orize
