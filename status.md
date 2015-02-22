@@ -6,15 +6,22 @@ I will be creating a simple api using django and again in rails to test out both
 The API will basically give data from movies and a particular user's status in relation to it. (Watched/In Queue/None)
 
 /api/movie/
+
 /api/movie/(#id)
+
 /api/user/
+
 /api/user/(#id)
+
 /api/user/(#id)/(status)
 
 
 Get Movies 
+
 Get Users
+
 Get Status (For Movie By User)
+
 Set Status
+
 Delete Status
-.
