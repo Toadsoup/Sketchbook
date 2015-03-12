@@ -15,8 +15,6 @@ Storytelling app
 * Build Robots
 * Battle for teritory control  
 
-####Renty Rent [More Thoughts](https://github.com/Toadsoup/Sketchbook/blob/master/RentyRent/basic.md)
-
 ####1000 Words  
 * A yep/nope for writing.  Did you write 1,000 words today? yep/nope.  
 
@@ -24,10 +22,11 @@ Storytelling app
 Make some kind of thing for people to create subscriptions...  I'm not entirely sure yet what it is.
 - Artist Subscription thing?  
 
-#### Resistance 
-- [Github](https://github.com/Toadsoup/Resistance)  
-- Demo on [Heroku](http://salty-bastion-6591.herokuapp.com/)  
-jQuery project from days of yore.  Make this more useful and less ugly.
+####Renty Rent [More Thoughts](https://github.com/Toadsoup/Sketchbook/blob/master/RentyRent/basic.md)
+
+#### Resistance - jQuery project from days of yore
+* [Github](https://github.com/Toadsoup/Resistance)  
+* Demo on [Heroku](http://salty-bastion-6591.herokuapp.com/)  
 * Reverse Colors (type in number, get color bands)
 * Common Color bands
 * Wigitize?
