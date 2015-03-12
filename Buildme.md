@@ -6,18 +6,14 @@ Storytelling app
 * API
 * Reader (ember.js?)
 
-####-orize [In progress](https://github.com/Toadsoup/orize)
-Based off of raptorize jquery plugin - Give forth comedy animations for web joy
-* Hodorize
-* Nick Cage-orize
-* Trogdorize
-* Robotize?
-* Custom-thing-orize
-
 ####Storybuilders Club
 * Story Generation Prompts
 * Story Recording 
 * Story Submit
+
+####Blaskabots
+* Build Robots
+* Battle for teritory control  
 
 ####Renty Rent [More Thoughts](https://github.com/Toadsoup/Sketchbook/blob/master/RentyRent/basic.md)
 
@@ -26,9 +22,20 @@ Based off of raptorize jquery plugin - Give forth comedy animations for web joy
 
 #### Stripe Connect
 Make some kind of thing for people to create subscriptions...  I'm not entirely sure yet what it is.
+- Artist Subscription thing?  
 
-#### Resistance [In progress] (https://github.com/Toadsoup/Resistance)
+#### Resistance 
+- [Github](https://github.com/Toadsoup/Resistance)  
+- Demo on [Heroku](http://salty-bastion-6591.herokuapp.com/)  
 jQuery project from days of yore.  Make this more useful and less ugly.
 * Reverse Colors (type in number, get color bands)
 * Common Color bands
 * Wigitize?
+
+####-orize [In progress](https://github.com/Toadsoup/orize)
+Based off of raptorize jquery plugin - Give forth comedy animations for web joy
+* Hodorize
+* Nick Cage-orize
+* Trogdorize
+* Robotize?
+* Custom-thing-orize
