@@ -22,6 +22,10 @@ Storytelling app
 Make some kind of thing for people to create subscriptions...  I'm not entirely sure yet what it is.
 - Artist Subscription thing?  
 
+#### MySql Table Generation
+* App to generate table creation scripts
+* Is this to similar to phpmyadmin?
+
 ####Renty Rent [More Thoughts](https://github.com/Toadsoup/Sketchbook/blob/master/RentyRent/basic.md)
 
 #### Resistance - jQuery project from days of yore
