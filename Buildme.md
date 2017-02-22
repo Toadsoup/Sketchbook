@@ -18,6 +18,9 @@ Storytelling app
 ####1000 Words  
 * A yep/nope for writing.  Did you write 1,000 words today? yep/nope.  
 
+####Chess design thing
+* For woodturners
+
 #### Stripe Connect
 Make some kind of thing for people to create subscriptions...  I'm not entirely sure yet what it is.
 - Artist Subscription thing?  
